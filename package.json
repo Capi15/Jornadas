@@ -1,0 +1,12 @@
+{
+    "name": "jornadas",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "to-markdown": "node scripts/to-markdown.js"
+    },
+    "dependencies": {
+        "download-github-release": "^0.3.2"
+    }
+}
