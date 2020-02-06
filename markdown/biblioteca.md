@@ -1,20 +1,18 @@
-# **XVIII Jornadas da Computação Gráfica**
+**XVIII Jornadas da Computação Gráfica**
 
-## **Biblioteca**
+**Biblioteca**
 
-### **Material:**
+Material:
 
-  - 1 projetores + 1 PC ( jogo que necessita de Kinect);
-
-  - 1 Monitor ou televisão + PC + Kinect;
+  - 1 Monitor ou televisão + PC + Kinect + teclado + rato;
 
   - 1 Router (speedrunners);
 
-  - Mini-mac + Monitor (vídeos demonstrativos);
+  - Mini-mac + Monitor + teclado + rato (vídeos demonstrativos);
 
-  - 2 PC´s (jogo speedRunners);
+  - 2 PC´s + 2 teclados + 2 ratos (jogo speedRunners + 2 outros jogos);
 
-  - (Provavelmente) 2 PC’s (2 jogos);
+  - 1 PC + Projetor + camara + teclado + rato (jogo air hockey);
 
   - 1 mesa (oferta de cursos);
 
@@ -28,12 +26,14 @@
 
   - Placas para afixar cartazes (depende do número de projetos);
 
-### **Alunos:**
+  - Cabos e adaptadores{…}
+
+Alunos:
 
 Total de 6 alunos, duas equipas de 3 elementos para os dois dias, uma
 equipa faz manhãs, outra equipas faz tardes.
 
-## **Horários**
+**Horários**
 
 **Info:** Primeiro dia.
 
