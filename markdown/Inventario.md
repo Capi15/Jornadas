@@ -1,6 +1,6 @@
-**XVIII Jornadas da Computação Gráfica**
+# **XVIII Jornadas da Computação Gráfica**
 
-Inventario
+## **Inventario**
 
 | **Itens**               | **Quantidade** |
 | ----------------------- | -------------- |
