@@ -1,23 +1,23 @@
-**XVIII Jornadas da Computação Gráfica**
+# **XVIII Jornadas da Computação Gráfica**
 
-**Cobertura de vídeo:**
+## **Cobertura de vídeo:**
 
-Material:
+### **Material:**
 
   - 1 camara de Filmar;
 
   - 1 Camara Fotográfica;
 
-Alunos:
+### **Alunos:**
 
 Total de 4 alunos, duas equipas de 2 elementos para os dois dias, uma
 equipa faz manhãs, outra equipas faz tardes.
 
-Planeamento:
+### **Planeamento:**
 
   - Camaras circulam entre átrio, auditório, biblioteca e workshops
 
-**Horários**
+## **Horários**
 
 **Info:** Primeiro dia.
 

@@ -1,8 +1,8 @@
-**XVIII Jornadas da Computação Gráfica**
+# **XVIII Jornadas da Computação Gráfica**
 
-**Biblioteca**
+## **Biblioteca**
 
-Material:
+### **Material:**
 
   - 1 Monitor ou televisão + PC + Kinect + teclado + rato;
 
@@ -28,12 +28,12 @@ Material:
 
   - Cabos e adaptadores{…}
 
-Alunos:
+### **Alunos:**
 
 Total de 6 alunos, duas equipas de 3 elementos para os dois dias, uma
 equipa faz manhãs, outra equipas faz tardes.
 
-**Horários**
+## **Horários**
 
 **Info:** Primeiro dia.
 
